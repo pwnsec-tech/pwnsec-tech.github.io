@@ -17,7 +17,7 @@ PWNSEC Team 기술 블로그입니다. (추가 설명 필요하면 넣을 것)
 
 3. execute bundle
     ```
-    cd pwnsecy.github.io
+    cd pwnsec-tech.github.io
     bundle
     ```
 
