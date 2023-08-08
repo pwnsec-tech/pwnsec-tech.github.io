@@ -1,7 +1,10 @@
 ---
 name: Question
 about: Issues that differ from other templates
+title: ''
 labels: question
+assignees: ''
+
 ---
 
 **NOTE:** Before you start, the following should be completed.

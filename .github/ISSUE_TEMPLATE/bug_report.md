@@ -1,6 +1,10 @@
 ---
 name: Bug Report
 about: Create a report to help us improve
+title: ''
+labels: ''
+assignees: ''
+
 ---
 
 **NOTE:** Before you start, the following should be completed.
