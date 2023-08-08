@@ -1,7 +1,10 @@
 ---
 name: Feature Request
 about: Suggest an idea for this project
+title: ''
 labels: enhancement
+assignees: ''
+
 ---
 
 **NOTE:** Before you start, the following should be completed.

@@ -1,7 +1,10 @@
 ---
 name: Help Wanted
 about: Need help that is not covered in the tutorial
-labels: 'help wanted'
+title: ''
+labels: help wanted
+assignees: ''
+
 ---
 
 **NOTE:** Before you start, the following should be completed.
