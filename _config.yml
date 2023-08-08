@@ -22,13 +22,13 @@ timezone: Asia/Seoul
 title: PWNSEC
 
 # it will display as the sub-title
-tagline: PWNSEC Blog 
+tagline: PWNSEC tech blog 
 
 description: >- # used by seo meta and the atom feed
   This is description
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: "https://pwnsecy.github.io"
+url: "https://pwnsec-tech.github.io"
 
 github:
   username: github_username # change to your github username
